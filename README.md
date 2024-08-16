@@ -14,7 +14,8 @@ Implementación de operaciones CRUD sobre las 2 entidades utilizando una base de
 - Uso de git para versionar el código.
 - Casos de prueba utilizando Mockito.
 - Uso de la librería Lombok.
-- Instalarlo en una instancia EC2 de AWS.
+  
+## Instalarlo en una instancia EC2 de AWS:
 
 ![original](https://github.com/user-attachments/assets/fa1115a4-1be0-4403-a25d-eeb1f6b12408)
 
