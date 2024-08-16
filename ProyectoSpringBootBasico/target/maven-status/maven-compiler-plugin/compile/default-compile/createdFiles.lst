@@ -1,0 +1,10 @@
+com\ebac\modulo39\controller\ResponseWrapper.class
+com\ebac\modulo39\Modulo39Application.class
+com\ebac\modulo39\service\UsuarioService.class
+com\ebac\modulo39\dto\Usuario.class
+com\ebac\modulo39\repository\UsuarioRepository.class
+com\ebac\modulo39\controller\TelefonoController.class
+com\ebac\modulo39\repository\TelefonoRepository.class
+com\ebac\modulo39\service\TelefonoService.class
+com\ebac\modulo39\controller\UsuarioController.class
+com\ebac\modulo39\dto\Telefono.class

@@ -1,0 +1,8 @@
+15-08-2024 01:10:17,587-05:00 [main] INFO  c.e.m.controller.UsuarioController - Obteniendo usuario por id 1
+15-08-2024 01:10:17,611-05:00 [main] INFO  c.e.m.controller.UsuarioController - Obteniendo usuarios
+15-08-2024 01:10:17,619-05:00 [main] INFO  c.e.m.controller.UsuarioController - Obteniendo usuarios
+15-08-2024 01:10:17,624-05:00 [main] INFO  c.e.m.controller.UsuarioController - Obteniendo usuario por id 1
+15-08-2024 01:10:17,625-05:00 [main] INFO  c.e.m.controller.UsuarioController - Usuario no encontrado con id 1
+15-08-2024 01:10:18,449-05:00 [main] INFO  c.e.m.Modulo39ApplicationTests - Starting Modulo39ApplicationTests using Java 17.0.4.1 with PID 24820 (started by chris in C:\Users\chris\ProyectoSpringBootBasico)
+15-08-2024 01:10:18,452-05:00 [main] INFO  c.e.m.Modulo39ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+15-08-2024 01:10:22,776-05:00 [main] INFO  c.e.m.Modulo39ApplicationTests - Started Modulo39ApplicationTests in 4.592 seconds (process running for 7.945)

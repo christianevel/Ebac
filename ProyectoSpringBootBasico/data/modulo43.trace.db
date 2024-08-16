@@ -1,0 +1,153 @@
+2024-06-21 00:13:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 00:14:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 21:19:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:19:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:21:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:22:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:22:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:24:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:25:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:26:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:26:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:26:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:26:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 where u1_0.id_usuario=? [42104-214]
+2024-06-21 23:31:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:31:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:35:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:36:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:36:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:36:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:36:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:39:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:40:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:41:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:41:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:41:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:42:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:43:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-21 23:43:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-22 10:44:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-23 23:11:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-24 23:03:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-24 23:17:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-24 23:18:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+insert into usuario (edad,nombre,id_usuario) values (?,?,default) [42104-214]
+2024-06-24 23:18:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-24 23:19:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 where u1_0.id_usuario=? [42104-214]
+2024-06-25 00:42:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-25 00:42:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-25 00:48:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-25 14:04:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-25 14:13:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-06-29 00:30:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-07-21 01:31:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-07-21 01:35:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-07-21 01:35:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-08-02 15:29:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-08-02 15:45:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-08-07 00:12:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found (this database is empty); SQL statement:
+select u1_0.id_usuario,u1_0.edad,u1_0.nombre from usuario u1_0 [42104-214]
+2024-08-07 00:19:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
+2024-08-07 00:19:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
+2024-08-07 00:20:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
+2024-08-07 00:20:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
