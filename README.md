@@ -1,6 +1,6 @@
 # Ebac
-Servicio REST exponiendo diferentes endpoints para interactuar con Telefonos y Usuarios
-Implementación de operaciones CRUD sobre las 2 entidades utilizando una base de datos H2
+Servicio REST exponiendo diferentes endpoints para interactuar con Telefonos y Usuarios implementando operaciones CRUD sobre las 2 entidades utilizando una base de datos H2
+
 ## El servicio REST provee los endpoints/controladores necesarios para:
 
 - Insertar información de proveedores y productos.
