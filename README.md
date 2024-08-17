@@ -3,10 +3,10 @@ Servicio REST exponiendo diferentes endpoints para interactuar con Telefonos y U
 
 ## El servicio REST provee los endpoints/controladores necesarios para:
 
-- Insertar información de proveedores y productos.
-- Actualizar información de proveedores y productos.
-- Obtener información de proveedores y productos.
-- Eliminar información de proveedores y productos.
+- Insertar información de telefonos y usuarios.
+- Actualizar información de telefonos y usuarios.
+- Obtener información de telefonos y usuarios.
+- Eliminar información de telefonos y usuarios.
 
 ## Requerimientos tecnicos:
 - Uso de SpringBoot.
